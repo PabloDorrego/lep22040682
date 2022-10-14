@@ -18,3 +18,5 @@ glimpse(df)
 
 df_ap<-df %>% mutate(Apartamento_turistico=floor %in% "00")
 df_area_ccaa<-df_ap %>% select(autonomous_region,area) %>% drop_na() %>% group_by(autonomous_region) %>% summarise(mean(area))
+
+write.csv(df_ap,file = "datafin.csv",row.names = FALSE,col.names = TRUE)
