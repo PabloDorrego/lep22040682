@@ -1,0 +1,357 @@
+
+paodo@HP-Pao MINGW64 ~/Universidad/LPE (main)
+$
+$ cd
+$ cd ~
+
+paodo@HP-Pao MINGW64 ~
+$
+$ mkdir
+$ mkdir lep22040682
+
+paodo@HP-Pao MINGW64 ~
+$
+$ cd
+$ cd lep22040682/
+
+paodo@HP-Pao MINGW64 ~/lep22040682
+$
+$ setwd
+$ setw
+$ set
+$ se
+$ s
+$
+$ kaggle
+$ kaggle datasets
+$ kaggle datasets list
+$ kaggle datasets list -s
+$ kaggle datasets list -s "España"
+ref                                                             title                                              size  last
+Updated          downloadCount  voteCount  usabilityRating
+--------------------------------------------------------------  ------------------------------------------------  -----  ----
+---------------  -------------  ---------  ---------------
+ricardomoya/tweets-poltica-espaa                                Tweets Política España                             17MB  2022
+-04-29 12:58:07             86          5  1.0
+fcojavt/municipios-spain                                        Municipios de España                              224KB  2020
+-05-18 15:35:15            119          6  0.7058824
+nicholasjhana/energy-consumption-generation-prices-and-weather  Hourly energy demand generation and weather         4MB  2019
+-10-10 14:02:37          12777        276  1.0
+datashyends/programas10n                                        Programas Elecciones España 10-N 2019             228KB  2019
+-11-10 17:11:33             24          1  1.0
+datamarket/movilidad-de-personas                                Movilidad de personas                              32MB  2021
+-02-05 08:49:55            109          5  1.0
+mikelmoli/municipal-postal-codes-spain-cdigos-postales          Municipal Postal Codes of Spain                   394KB  2022
+-02-26 11:40:14             37         10  0.7647059
+datamarket/noticias-economicas                                  Noticias Económicas                                16MB  2021
+-02-09 18:42:15             55          7  0.9411765
+datamarket/ofertas-de-mvil-fibra-y-tv                           Ofertas de móvil, fibra y TV                       12KB  2021
+-02-11 17:46:13             39          5  0.9411765
+xaxipirulazo/red-electrica-espaola-consumo-y-precios            Red Electrica De España                           308KB  2020
+-03-26 14:40:32             47          1  0.4117647
+sszbigdata/pib-y-paro-en-espaa                                  PIB y paro en España                               852B  2018
+-09-14 12:22:16            100          1  0.75
+datamarket/productos-de-supermercados                           Productos de supermercados                         19MB  2021
+-02-17 08:36:55            463          8  0.9411765
+datamarket/ofertas-de-trabajo                                   Ofertas de empleo                                 189KB  2021
+-05-19 16:56:11             97          5  0.9411765
+datamarket/viajes-en-tren                                       Viajes en tren                                     34MB  2021
+-02-09 18:57:10            161          5  0.9411765
+jersey33/datos-elecciones-generales-19962016                    Datos elecciones generales 1996-2016 España         9KB  2018
+-11-16 13:23:48            177          5  0.23529412
+datamarket/catastro                                             Catastro                                            3MB  2021
+-09-01 07:24:06             28          4  0.9411765
+jessemostipak/tour-de-france-winners                            Tour de France Winners                              2MB  2020
+-04-07 15:13:22            420         10  1.0
+datamarket/contratacion-publica                                 Contratación Pública                                2MB  2021
+-09-03 09:13:42             23          4  0.9411765
+datamarket/boletines-oficiales                                  Boletines Oficiales                                 2MB  2021
+-07-02 08:48:38             14          3  0.9411765
+jaimevalero/covid19-madrid                                      Covid19 Madrid                                     13KB  2022
+-06-21 17:08:52            271         19  0.8235294
+manualrg/spanish-electricity-market-demand-gen-price            Spanish Electricity Market: Demand, Gen. & Price  285KB  2019
+-03-12 18:12:53           2066         37  0.7647059
+
+paodo@HP-Pao MINGW64 ~/lep22040682
+$
+$ ^C
+
+paodo@HP-Pao MINGW64 ~/lep22040682
+$
+$ datasets
+$ datasets dowload
+$ datasets dowloa
+$ datasets dowlo
+$ datasets dowl
+$ datasets download
+$ datasets download -d
+$ datasets download -d "datamarket/catasttro
+$ datasets download -d "datamarket/catasttr
+$ datasets download -d "datamarket/catastt
+$ datasets download -d "datamarket/catastro"
+$ kdatasets download -d "datamarket/catastro"
+$ kadatasets download -d "datamarket/catastro"
+$ kagdatasets download -d "datamarket/catastro"
+$ kaggdatasets download -d "datamarket/catastro"
+$ kaggldatasets download -d "datamarket/catastro"
+$ kaggledatasets download -d "datamarket/catastro"
+$ kaggle datasets download -d "datamarket/catastro"
+Downloading catastro.zip to C:\Users\paodo\lep22040682
+  0%|                                                                                           | 0.00/3.41M [00:00<?, ?B/s]
+ 29%|████████████████████████                                                          | 1.00M/3.41M [00:00<00:00, 6.86MB/s]
+ 59%|████████████████████████████████████████████████                                  | 2.00M/3.41M [00:00<00:00, 6.05MB/s]
+ 88%|████████████████████████████████████████████████████████████████████████          | 3.00M/3.41M [00:00<00:00, 7.22MB/s]
+100%|██████████████████████████████████████████████████████████████████████████████████| 3.41M/3.41M [00:00<00:00, 6.96MB/s]
+
+paodo@HP-Pao MINGW64 ~/lep22040682
+$
+$ git
+$ git init
+Initialized empty Git repository in C:/Users/paodo/lep22040682/.git/
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git@github.com:PabloDorrego/lep22040682.git
+$ git@github.com:PabloDorrego/lep22040682.gi
+$ git@github.com:PabloDorrego/lep22040682.g
+$ git@github.com:PabloDorrego/lep22040682.
+$ git@github.com:PabloDorrego/lep22040682
+$ git@github.com:PabloDorrego/lep2204068
+$ git@github.com:PabloDorrego/lep220406
+$ git@github.com:PabloDorrego/lep22040
+$ git@github.com:PabloDorrego/lep2204
+$ git@github.com:PabloDorrego/lep220
+$ git@github.com:PabloDorrego/lep22
+$ git@github.com:PabloDorrego/lep2
+$ git@github.com:PabloDorrego/lep
+$ git@github.com:PabloDorrego/l
+$ git@github.com:PabloDorrego/
+$ git@github.com:PabloDorrego
+$ git@github.com:PabloDorreg
+$ git@github.com:PabloDorr
+$ git@github.com:PabloDor
+$ git@github.com:PabloDo
+$ git@github.com:PabloD
+$ git@github.com:Pablo
+$ git@github.com:Pabl
+$ git@github.com:Pa
+$ git@github.com:P
+$ git@github.com:
+$ git@github.com
+$ git@github.co
+$ git@github.c
+$ git@github.
+$ git@github
+$ git@githu
+$ git@gith
+$ git@git
+$ git@gi
+$ git@g
+$ git@
+$ git
+$ gi
+$ g
+$
+$ git
+$ gi
+$ g
+$
+$ git remote add origin git@github.com:PabloDorrego/lep22040682.git
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git remote
+$ git remote -v
+origin  git@github.com:PabloDorrego/lep22040682.git (fetch)
+origin  git@github.com:PabloDorrego/lep22040682.git (push)
+
+
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git push
+$ git push -u
+$ git push -u origin
+$ git push -u origin main
+error: src refspec main does not match any
+error: failed to push some refs to 'github.com:PabloDorrego/lep22040682.git'
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git status
+On branch main
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        catastro-sample.csv
+        catastro.zip
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git add
+$ git add .
+warning: in the working copy of 'catastro-sample.csv', LF will be replaced by CRLF the next time Git touches it
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git status
+On branch main
+
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+        new file:   catastro-sample.csv
+        new file:   catastro.zip
+
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git commit
+$ git commit -m"Upload
+$ git commit -m"Upload original
+$ git commit -m"Upload original data"
+[main (root-commit) f245061] Upload original data
+ 2 files changed, 60001 insertions(+)
+ create mode 100644 catastro-sample.csv
+ create mode 100644 catastro.zip
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git push
+$ git push -u
+$ git push -u origin
+$ git push -u origin main
+ssh: connect to host github.com port 22: Connection timed out
+fatal: Could not read from remote repository.
+
+Please make sure you have the correct access rights
+and the repository exists.
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git remor
+$ git remote
+$ git remote add
+$ git remote add https://github.com/PabloDorrego/lep22040682.git
+usage: git remote add [<options>] <name> <url>
+
+    -f, --fetch           fetch the remote branches
+    --tags                import all tags and associated objects when fetching
+                          or do not fetch any tag at all (--no-tags)
+    -t, --track <branch>  branch(es) to track
+    -m, --master <branch>
+                          master branch
+    --mirror[=(push|fetch)]
+                          set up remote as a mirror to push to or fetch from
+
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git remote add origin https://github.com/PabloDorrego/lep22040682.git
+error: remote origin already exists.
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git remote add origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote ad origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote a origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote  origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote s origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote se origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote set origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote set- origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote set-u origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote set-ur origin https://github.com/PabloDorrego/lep22040682.git
+$ git remote set-url origin https://github.com/PabloDorrego/lep22040682.git
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git remote
+$ git remote -v
+origin  https://github.com/PabloDorrego/lep22040682.git (fetch)
+origin  https://github.com/PabloDorrego/lep22040682.git (push)
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git push
+$ git push -u
+$ git push -u origin
+$ git push -u origin main
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects:  50% (2/4)Compressing objects: 100% (4/4)Compressing objects: 100% (4/4), done.
+Writing objects:  50% (2/4)Writing objects:  50% (2/4), 1.99 MiB | 3.77 MiB/sWriting objects:  75% (3/4), 1.99 MiB | 3.77 MiB/sWriting objects: 100% (4/4), 6.77 MiB | 3.20 MiB/s, done.
+Total 4 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/PabloDorrego/lep22040682.git
+ * [new branch]      main -> main
+branch 'main' set up to track 'origin/main'.
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        lep22040682.R
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git add
+$ git add lep22040682.R
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git commit
+$ git commit .
+$ git commit
+$ git commit -m"Upload
+$ git commit -m"Upload test
+$ git commit -m"Upload tes
+$ git commit -m"Upload te
+$ git commit -m"Upload t
+$ git commit -m"Upload
+$ git commit -m"Upload R
+$ git commit -m"Upload R test
+$ git commit -m"Upload R test file"
+[main 90d7870] Upload R test file
+ 1 file changed, 20 insertions(+)
+ create mode 100644 lep22040682.R
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
+$ git
+$ git push
+Enumerating objects: 4, done.
+Counting objects: 100% (4/4), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (3/3), done.
+Writing objects: 100% (3/3), 644 bytes | 214.00 KiB/s, done.
+Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+To https://github.com/PabloDorrego/lep22040682.git
+   f245061..90d7870  main -> main
+
+paodo@HP-Pao MINGW64 ~/lep22040682 (main)
+$
